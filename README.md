@@ -10,7 +10,7 @@ Ainan
 - Link GitHub: https://www.github.com/ainandoo
 - [GitHub](https://www.github.com/ainandoo)
 
-Yanu Ade S
+Yanu Ade Safikri
 - Link GitHub: https://www.github.com/ClownArchipel
 -  [GitHub](https://www.github.com/ClownArchipel)
 
