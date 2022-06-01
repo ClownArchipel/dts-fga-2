@@ -10,6 +10,10 @@ Ainan
 - Link GitHub: https://www.github.com/ainandoo
 - [GitHub](https://www.github.com/ainandoo)
 
+Yanu Ade S
+- Link GitHub: https://www.github.com/ClownArchipel
+-  [GitHub](https://www.github.com/ClownArchipel)
+
 
 #### Terakhir di update: 01 Juni 2022
 Versi dokumen 1.3.101
